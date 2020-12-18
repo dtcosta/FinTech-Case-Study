@@ -43,11 +43,9 @@ Since their founding and success with Risk Number®, Riskalyze has continued to 
 
 The company now provides three types of product and services :
 
-Risk Alignment Platform: Analyze Portfolio Risk, Setting portfolio return expectations, stress testing, prospect comparisons, and Retirement Mapping
-
-Automated Asset Management: Autopilot, Risk Number, Account opening with e-signing, automated portfolio management, client self-service 
-
-Compliance Analytics: Find accounts with bad investments or compliance issues, matching of objectives, automated case management workflow
+Risk Alignment Platform | Automated Asset Management | Compliance Analytics 
+------------ | ------------- | -------------
+Analyze Portfolio Risk, Setting portfolio return expectations, stress testing, prospect comparisons, and Retirement Mapping | Autopilot, Risk Number, Account opening with e-signing, automated portfolio management, client self-service | Find accounts with bad investments or compliance issues, matching of objectives, automated case management workflow
 
 The company’s focus on the model portfolios segment through its Automated Asset Management deserves some attention. Industry experts believe the bulk of the company's Series A funding of $20M went towards the build-out of its own turnkey asset management platform (TAMP). Their investment models are based around risk scoring, a partner store where advisors can access strategies and research from asset managers, and a next-generation Autopilot that advisors can use to build portfolios, assign them to client accounts, automatically generate trades across multiple custodians and rebalance existing portfolios. The introduction of these products moved Riskalyze from just a portfolio risk management technology to also a B2B Robo provider. 
 
