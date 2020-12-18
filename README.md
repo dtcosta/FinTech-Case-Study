@@ -9,10 +9,11 @@ A company named Riskalyze is on a mission to empower the world to invest fearles
 
 Riskalyze is transforming the advisory industry by empowering investment advisors to capture a quantitative measurement of client risk tolerance, and use that data to win new clients, capture and meet expectations and quantify suitability.
 
-Incorporated March 1, 2011
-Founders Aaron Klein and Matt Pistone
-Located 470 Nevada Street, Auburn, California, 95603
-Employees 125
+Incorporated | March 1, 2011
+------------ | -------------
+Founders | Aaron Klein and Matt Pistone
+Located | 470 Nevada Street, Auburn, California, 95603
+Employees|  125
 
 Business Idea 
 Riskalyze started with a simple idea: the way advisors measure client risk tolerance and select allocations are broken. Just a few years removed from the Great Recession and Financial crisis, portfolio risk was very much at the forefront of investor’s minds. In addition to the importance of portfolio diversification, it is important investors take enough risk to meet mid and long-term investing goals. The founders saw traditional, qualitative risk assessment tools as inadequate and clunky. With the help of leading academic research, the Risk Number® was born. This new financial data point is a 1-99 risk rating shown to clients in an easy to read format similar to speed limit signs. As you’ll soon learn, this was just the beginning for Riskalyze. 
