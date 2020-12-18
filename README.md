@@ -83,7 +83,11 @@ WealthTech companies capitalize on inefficiencies in financial services and weal
 * According to Deloitte The future of wealth in the United States
 
 Competition 
-WealthTech contains many sub-domains that consist of some of the major players in financial services such as LPL, TD Ameritrade, Blackrock, Charles Schwab, and Fidelity Investments. Riskalyze is working in two sub-domains Portfolio Risk Management and B2B Robos. Riskalyze is the major player in Portfolio Risk Management but a smaller player in B2B Robos. According to RIA In a Box, Riskalyze has a 59% market share of the risk tolerance software sector. Within Portfolio Risk Management their main competitors are Riskalyze Totum, Finametrica, Kwanti, Tolerisk, Eze Software, Novus, and Lifeyield. Within B2B Robos their main competitors are Envestnet, Legg Mason, Blackrock, Vestmark, Betterment, and TIAA. 
+WealthTech contains many sub-domains that consist of some of the major players in financial services such as LPL, TD Ameritrade, Blackrock, Charles Schwab, and Fidelity Investments. Riskalyze is working in two sub-domains Portfolio Risk Management and B2B Robos. Riskalyze is the major player in Portfolio Risk Management but a smaller player in B2B Robos. According to RIA In a Box, Riskalyze has a 59% market share of the risk tolerance software sector. Listed below are some main competitors. 
+
+Portfolio Risk Management  | B2B Robos
+------------ | -------------
+Riskalyze Totum, Finametrica, Kwanti, Tolerisk, Eze Software, Novus, and Lifeyield | CEnvestnet, Legg Mason, Blackrock, Vestmark, Betterment, and TIAA
 
 ## Results:
 
