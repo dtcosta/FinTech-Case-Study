@@ -17,12 +17,14 @@ Employees 125
 Business Idea 
 Riskalyze started with a simple idea: the way advisors measure client risk tolerance and select allocations are broken. Just a few years removed from the Great Recession and Financial crisis, portfolio risk was very much at the forefront of investor’s minds. In addition to the importance of portfolio diversification, it is important investors take enough risk to meet mid and long-term investing goals. The founders saw traditional, qualitative risk assessment tools as inadequate and clunky. With the help of leading academic research, the Risk Number® was born. This new financial data point is a 1-99 risk rating shown to clients in an easy to read format similar to speed limit signs. As you’ll soon learn, this was just the beginning for Riskalyze. 
 
-Funding 
-04/07/2020 Debt $2M PPP
-10/23/2016 Series A $20M FT
-01/14/2015 Venture $2M 
-*Raised $1.2M in seed funding from 2012-2015 
-Business Case
+Date | Round | Amount | Investor
+------------ | ------------- | -------------| -------------
+04/07/2020 | Debt | $2M | PPP
+10/23/2016  | Series A | $20M | FTV Capital
+01/14/2015 | Venture | $2M | Not Provided 
+
+Raised $1.2M in seed funding from 2012-2015 
+
 
 ## Business Activities:
 
