@@ -99,12 +99,9 @@ One of the key measures of success for Riskalyze is the share of the market. As 
 Sub-domain | Rank | Market Share | Penetration 
 ------------ | ------------- | ------------- | -------------
 Risk Tolerance Instruments| 1 | 29.88% | 37.71% 
-Content in the first column | Content in the second column
+Economic Analysis and Stress Testing| 1 | 11.26% | 49.36%
+Automated Portfolio Management| 7 | 1.13% | 25.78% 
 
-Sub-domain Rank Market Share Category Market Penetration
-Risk Tolerance Instruments 1 29.88% 37.71%
-Economic Analysis and Stress Testing 1 11.26% 49.36%
-Automated Portfolio Management 7 1.13% 25.78%
 All data as of February 2019 according to T3 Software Survey Report
 
 Core Metrics: Advisor Adoption 
