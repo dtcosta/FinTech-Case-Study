@@ -31,6 +31,8 @@ This has certainly evolved as the company moves up the Wealthtech hierarchy. The
 
 With the use of Risk Number® advisors are able to accomplish two very important objectives: obtain new clients and document their due diligence. Riskalyze has really made a name for themselves by equipping advisors with client-facing sales literature that translates into a very compelling sales pitch: I can measure your personal risk tolerance with a number and offer a custom-built portfolio that matches that exact number. While this might seem simple, until Riskalyze the words Conservative, Moderate, and Aggressive were how advisors would describe their clients and the portfolios selected. 
 
+![risk](risk.jpg)
+
 On the objective of advisor due diligence, Riskalyze hit a homerun. Never in the history of financial services has there been more emphasis on suitability. The Obama administration first proposed a fiduciary rule to protect retirement savers from conflicted advice back in 2010 and the rule is still being finalized ten years later. Seeing the writing on the wall, most advisors and their broker-dealer firms adopted customer suitability procedures in and out of retirement accounts. Finally, in December of 2019, the SEC finalized Reg Best Interest (BI) which cemented the required due diligence an advisor is required to provide. 
 
 Riskalyze is often cited as the easiest way to sell risk tolerance capabilities and suitability to a client through their simple Risk Number® and client-facing technologies. In fact, if you Google “Reg BI” you might just see them advertising on the top line. 
@@ -81,11 +83,7 @@ WealthTech companies capitalize on inefficiencies in financial services and weal
 * According to Deloitte The future of wealth in the United States
 
 Competition 
-WealthTech contains many sub-domains that consist of some of the major players in financial services such as LPL, TD Ameritrade, Blackrock, Charles Schwab, and Fidelity Investments. Riskalyze is working in two sub-domains Portfolio Risk Management and B2B Robos. Riskalyze is the major player in Portfolio Risk Management but a smaller player in B2B Robos. According to RIA In a Box, Riskalyze has a 59% market share of the risk tolerance software sector.  Below is a break out of their competitors.
-
-Portfolio Risk Management: Riskalyze, Totum, Finametrica, Kwanti, Tolerisk, Eze Software, Novus, Lifeyield
-
-B2B Robos: Envestnet, Legg Mason, Blackrock, Vestmark, Betterment, TIAA, Riskalyze
+WealthTech contains many sub-domains that consist of some of the major players in financial services such as LPL, TD Ameritrade, Blackrock, Charles Schwab, and Fidelity Investments. Riskalyze is working in two sub-domains Portfolio Risk Management and B2B Robos. Riskalyze is the major player in Portfolio Risk Management but a smaller player in B2B Robos. According to RIA In a Box, Riskalyze has a 59% market share of the risk tolerance software sector. Within Portfolio Risk Management their main competitors are Riskalyze Totum, Finametrica, Kwanti, Tolerisk, Eze Software, Novus, and Lifeyield. Within B2B Robos their main competitors are Envestnet, Legg Mason, Blackrock, Vestmark, Betterment, and TIAA. 
 
 ## Results:
 
@@ -97,6 +95,11 @@ As we have learned, Riskalyze continues to diversify its offerings and now plays
 
 Core Metrics: Market Share 
 One of the key measures of success for Riskalyze is the share of the market. As we have discussed, Riskalyze is playing in several different sub-domains. While they are dominant leaders in risk tolerance and stress testing, they are still working on automated portfolio management. 
+
+Sub-domain | Rank | Market Share | Penetration 
+------------ | ------------- | ------------- | -------------
+Risk Tolerance Instruments| 1 | 29.88% | 37.71% 
+Content in the first column | Content in the second column
 
 Sub-domain Rank Market Share Category Market Penetration
 Risk Tolerance Instruments 1 29.88% 37.71%
