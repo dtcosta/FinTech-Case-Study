@@ -24,7 +24,7 @@ Date | Round | Amount | Investor
 10/23/2016  | Series A | $20M | FTV Capital
 01/14/2015 | Venture | $2M | Not Provided 
 
-Raised $1.2M in seed funding from 2012-2015 
+Raised $1.2M in seed funding from 2012-2015. [1]
 
 
 ## Business Activities:
@@ -36,7 +36,7 @@ With the use of Risk Number® advisors are able to accomplish two very important
 
 ![risk](risk.jpg)
 
-On the objective of advisor due diligence, Riskalyze hit a homerun. Never in the history of financial services has there been more emphasis on suitability. The Obama administration first proposed a fiduciary rule to protect retirement savers from conflicted advice back in 2010 and the rule is still being finalized ten years later. Seeing the writing on the wall, most advisors and their broker-dealer firms adopted customer suitability procedures in and out of retirement accounts. Finally, in December of 2019, the SEC finalized Reg Best Interest (BI) which cemented the required due diligence an advisor is required to provide. 
+On the objective of advisor due diligence, Riskalyze hit a homerun. Never in the history of financial services has there been more emphasis on suitability. The Obama administration first proposed a fiduciary rule to protect retirement savers from conflicted advice back in 2010 and the rule is still being finalized ten years later. Seeing the writing on the wall, most advisors and their broker-dealer firms adopted customer suitability procedures in and out of retirement accounts. Finally, in December of 2019, the SEC finalized Reg Best Interest (BI) which cemented the required due diligence an advisor is required to provide. [2] 
 
 Riskalyze is often cited as the easiest way to sell risk tolerance capabilities and suitability to a client through their simple Risk Number® and client-facing technologies. In fact, if you Google “Reg BI” you might just see them advertising on the top line. 
 
@@ -53,24 +53,24 @@ The company’s focus on the model portfolios segment through its Automated Asse
 Intended Customer 
 Riskalyze’s intended customer consists of RIAs, hybrid advisors, independent broker-dealers, RIA networks, custodians, clearing firms, and asset managers.
 
-According to the US Bureau of Labor Statistics, there are currently 210,190 personal financial advisors working in the United States. But there is no reason for Riskalyze to contain themselves to just the USA and in fact, they are currently doing business in Canada and Australia. The Boston Consulting Group estimated there was $74.3 trillion of global assets under management (AUM) for the year 2018. As long as that amount continues to grow, private wealth management and financial advisory services will grow right along with it.
+According to the US Bureau of Labor Statistics, there are currently 210,190 personal financial advisors [3] working in the United States. But there is no reason for Riskalyze to contain themselves to just the USA and in fact, they are currently doing business in Canada and Australia. The Boston Consulting Group estimated there was $74.3 trillion of global assets under management (AUM) for the year 2018.[4] As long as that amount continues to grow, private wealth management and financial advisory services will grow right along with it.
 
 Competitive Advantage 
 The number one advantage Riskalyze has in the marketplace is Risk Number®. As we have discussed this innovative way of measuring client risk tolerance and portfolio risk with an easy-to-understand output is a major differentiator. This was the first quantitative system to help advisors identify a client’s risk tolerance. 
 
-Another advantage is powerful integrations with all the major CRM, custodian, and portfolio management software and Reg BI Compliance procedures. And while still a newer offering, the company's Autopilot 2.0 is gaining attention as “the first automated account platform.”
+Another advantage is powerful integrations with all the major CRM, custodian, and portfolio management software and Reg BI Compliance procedures. And while still a newer offering, the company's Autopilot 2.0 is gaining attention as “the first automated account platform.”[5]
 
-But one of the most mentioned advantages is Riskalyze Academy. Implementing the Risk Number® into an advisor’s business is not as easy as putting a new app on your phone. You’re talking about weaving a whole bunch of concepts about risk into client engagements, client interactions, and client meetings. That’s a lot of work. It takes support and coaching for an advisor to get there. So, we invested in having the industry’s best support team. We consistently hear from advisors that we have 95% plus customer satisfaction ratings with our support team. 
+But one of the most mentioned advantages is Riskalyze Academy. Implementing the Risk Number® into an advisor’s business is not as easy as putting a new app on your phone. You’re talking about weaving a whole bunch of concepts about risk into client engagements, client interactions, and client meetings. That’s a lot of work. It takes support and coaching for an advisor to get there. So, we invested in having the industry’s best support team. We consistently hear from advisors that we have 95% plus customer satisfaction ratings with our support team.[6]
 
 Technologies 
 Riskalyze uses 31 technology products and services including HTML5, Google Analytics, and jQuery, according to G2 Stack. Riskalyze is actively using 44 technologies for its website, according to BuiltWith. These include Google Font API, LetsEncrypt, and Font Awesome.
 
-Additionally, they use Ruby, Modernizer, Typescript, and Cloudflare, according to Stackshare.
+Additionally, they use Ruby, Modernizer, Typescript, and Cloudflare, according to Stackshare.[7]
 
 ## Landscape
 
 Domain: WealthTech
-Riskalyze sits squarely in the WealthTech domain of FinTech. The WealthTech domain is ever-changing and experiencing tremendous growth. In 2019, the size of the Wealthtech market, measured by the segment’s assets under management, was $1.5 trillion. PitchBook expects the asset base to grow to over $6 trillion by 2023, representing a compound annual growth rate of 42.3%. By the end of 2020, the wealth management industry is projected to spend the US $21.4 billion on tech, and the figure is set to grow at a compound annual growth rate (CAGR) of 5% year-over-year (YoY) until 2023. 
+Riskalyze sits squarely in the WealthTech domain of FinTech. The WealthTech domain is ever-changing and experiencing tremendous growth. In 2019, the size of the Wealthtech market, measured by the segment’s assets under management, was $1.5 trillion. PitchBook expects the asset base to grow to over $6 trillion by 2023, representing a compound annual growth rate of 42.3%. By the end of 2020, the wealth management industry is projected to spend the US $21.4 billion on tech, and the figure is set to grow at a compound annual growth rate (CAGR) of 5% year-over-year (YoY) until 2023.[8]
 
 Trends
 WealthTech companies capitalize on inefficiencies in financial services and wealth management. The constant change and adapting of the industry provide a fertile ground for technology. Over the last 5-10 years major trends in the industry have been:
@@ -94,7 +94,7 @@ Riskalyze Totum, Finametrica, Kwanti, Tolerisk, Eze Software, Novus, and Lifeyie
 
 There is no doubt, Riskalyze is a star within the WealthTech space. Their delivery of a risk assessment software was impeccably timed. They disrupted old, designed a new essential investing measurement, and showed their customers how to sell more of their services by using their number. As of August 2017, Riskalyze now supports 20,000 advisors representing $380 billion assets, and CEO Aaron Klein says the company has grown 74 times over the last three years. Riskalyze has been named Most Innovative Company by Fast Company for several years. Most importantly for the advisors, they work with they have earned a spot on their desktop.
 
-Riskalyze is a private company and has not received any funding since 2016 so it is difficult to find revenue and sales date. Estimated annual revenue is $26.5M per year which equates to approximately $130,00 per employee.
+Riskalyze is a private company and has not received any funding since 2016 so it is difficult to find revenue and sales date. Estimated annual revenue is $26.5M per year which equates to approximately $130,00 per employee.[9]
 
 As we have learned, Riskalyze continues to diversify its offerings and now plays in three sub-domains within WealthTech: Risk Alignment, Automated Asset Management, and Compliance. 
 
@@ -107,7 +107,7 @@ Risk Tolerance Instruments| 1 | 29.88% | 37.71%
 Economic Analysis and Stress Testing| 1 | 11.26% | 49.36%
 Automated Portfolio Management| 7 | 1.13% | 25.78% 
 
-All data as of February 2019 according to T3 Software Survey Report
+All data as of February 2019 according to T3 Software Survey Report[10]
 
 Core Metrics: Advisor Adoption 
 As with any new tool, the adoption of that tool is important. While Riskalyze has shown to be a leader in several sub-domains, the adoption of some of the tools they provide is still growing. Only 40% of financial advisors have adopted risk tolerance software. There are said to be over 200,000 financial advisors in the industry and as of June of 2018 Riskalyze works with over 20,000 financial advisors according to CEO Aaron Klien in an interview with Wharton.
@@ -121,7 +121,7 @@ Due to the diversified products offered by Riskalyze, they also compete against 
 Risk Tolerance Instruments: FinaMetrica, RiXtrema, Pocket Risk, Tolerisk
 Economic Analysis and Stress Testing: DFA Returns, FI 360, Morningstar, YCharts
 Automated Portfolio Management: Envestnet, SEI, Schwab, LPL, Betterment
-All data as of February 2019 according to T3 Software Survey Report
+All data as of February 2019 according to T3 Software Survey Report[11]
 
 ## Recommendations:
 
@@ -135,7 +135,7 @@ While the diversification of products is impressive, it has left Riskalyze with 
 This new name would be the hub while all of the software and services they provide would be spokes. There would be no real FinTech technology needed to implement this change. 
 
 Retail
-The democratization of investing has been all the buzz in FinTech especially now during COVID-19. You can’t pick up a periodical or research report without hearing about the impact of the retail or Robinhood trader. In general, this new cohort of investors has taken on amounts of risk they might not be comfortable with if/when we face downside volatility. The regulators are not blind to this. In fact, the state of Massachusetts is one of the first to go after Robinhood for gamification, and on December 17, 2020, the SEC fined them $65M. 
+The democratization of investing has been all the buzz in FinTech especially now during COVID-19. You can’t pick up a periodical or research report without hearing about the impact of the retail or Robinhood trader. In general, this new cohort of investors has taken on amounts of risk they might not be comfortable with if/when we face downside volatility. The regulators are not blind to this. In fact, the state of Massachusetts is one of the first to go after Robinhood for gamification, and on December 17, 2020, the SEC fined them $65M.[12]
 
 This is just the beginning and Riskalyze is uniquely qualified to help with their Compliance Analytic tools. I don’t anticipate growth in retail self-directed investing slowing but if/when retail investors are required to ride out a significant bear market it may cause migration to the platforms that use risk tolerance instruments. Imagine opening your Robinhood account and seeing you have 95% Risk Number® in a down market. The addition of lower-risk investments would lower that number. Riskalyze has gamified risk, it’s time for the gamified retail self-directed platforms to adopt their tools. 
 
@@ -147,7 +147,20 @@ Survey participants younger than 40 were four times likelier than advisors over 
 Riskalyze was able to use machine learning to add a value of risk to thousands of investments by themselves and as part of a portfolio. They would need to leverage this technology to index all options and provide an output of advice within each planning segment. As an example, when it comes to college planning they would need to build out data on all college funding options, colleges, tuitions, and expected family contributions. They could then use machine learning to explore the data, identify patterns, and provide recommendations.
 
 Managed Portfolio Models & Autopilot 
-The explosion of the Robo Advisor over the past 5-10 years is no secret. The growth simply can’t be ignored. Robo-advisors are forecast to become a $1.4T industry this year, jumping by 47% year-on-year. By 2023, assets managed by Robo-advisors are expected to jump to $2.5T in value. This provides a massive growth opportunity for Riskalyze within the financial advisory world as well as retail. This is a crowded space today so my recommendation would be a build-out of AutoPilot with personalization to a customer’s exact Risk Number®. This would be a valuable differentiator in the space. 
+The explosion of the Robo Advisor over the past 5-10 years is no secret. The growth simply can’t be ignored. Robo-advisors are forecast to become a $1.4T industry this year, jumping by 47% year-on-year. By 2023, assets managed by Robo-advisors are expected to jump to $2.5T in value.[13] This provides a massive growth opportunity for Riskalyze within the financial advisory world as well as retail. This is a crowded space today so my recommendation would be a build-out of AutoPilot with personalization to a customer’s exact Risk Number®. This would be a valuable differentiator in the space. 
 
 Riskalyze already has this technology built for the advisor marketplace. In order to go direct to consumers, they would need a website and app built to house the Robo.
 
+[1]: https://www.crunchbase.com/organization/riskalyze/company_financials
+[2]: https://www.finra.org/article/regulation-best-interest-%28reg-bi%29-overview
+[3]: https://www.bls.gov/oes/current/oes132052.htm
+[4]: https://www.investopedia.com/articles/professionals/111115/how-big-wealth-management-and-financial-advisor-industry.asp
+[5]: https://www.wealthmanagement.com/technology/what-aaron-klein-building-riskalyze
+[6]: https://knowledge.wharton.upenn.edu/article/fintech-startup-takes-fear-investing/
+[7]: https://stackshare.io/riskalyze/riskalyze
+[8]: https://www.riaintel.com/article/b1lpbb5vvs49bg/vc-investment-in-wealth-management-startups-has-plummeted-was-2019-the-top
+[9]: https://growjo.com/company/Riskalyze
+[10]: https://t3technologyhub.com/wp-content/uploads/2019/01/2019-T3-Software-Survey-Report_02-05-19.pdf
+[11]: https://t3technologyhub.com/wp-content/uploads/2019/01/2019-T3-Software-Survey-Report_02-05-19.pdf
+[12]: https://www.cbsnews.com/news/robinhood-sec-fine-65-million/
+[13]: https://www.tradersmagazine.com/news/robo-advisors-to-become-1-4t-industry-this-year/
